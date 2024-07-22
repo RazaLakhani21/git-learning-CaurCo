@@ -1,3 +1,6 @@
 this is first file
 
 Add another file to Folder and commit it !
+
+
+Doing some another work on this text file to resolve it or learn some Git, You Know !
